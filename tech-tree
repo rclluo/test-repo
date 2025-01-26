@@ -127,6 +127,12 @@
         <mxCell id="nc87ifl2Nzmpdhsmnfc9-14" value="Coins" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="480" y="560" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-19" value="Weapons IV" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-20" value="Armour II" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
