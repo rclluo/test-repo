@@ -40,7 +40,7 @@
         <mxCell id="KD0ofWx3B9sPDGtg-vp3-7" value="Art" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zk8eU6YCLSLbu2tlF5h--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KD0ofWx3B9sPDGtg-vp3-9" target="Zk8eU6YCLSLbu2tlF5h--5">
+        <mxCell id="Zk8eU6YCLSLbu2tlF5h--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KD0ofWx3B9sPDGtg-vp3-9" target="Zk8eU6YCLSLbu2tlF5h--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KD0ofWx3B9sPDGtg-vp3-9" value="Pottery" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
@@ -58,19 +58,19 @@
         <mxCell id="KD0ofWx3B9sPDGtg-vp3-15" value="Weapons II" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="560" y="160" width="123" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zk8eU6YCLSLbu2tlF5h--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zk8eU6YCLSLbu2tlF5h--5" target="Zk8eU6YCLSLbu2tlF5h--9">
+        <mxCell id="Zk8eU6YCLSLbu2tlF5h--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zk8eU6YCLSLbu2tlF5h--5" target="Zk8eU6YCLSLbu2tlF5h--9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zk8eU6YCLSLbu2tlF5h--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zk8eU6YCLSLbu2tlF5h--5" target="Zk8eU6YCLSLbu2tlF5h--10">
+        <mxCell id="Zk8eU6YCLSLbu2tlF5h--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zk8eU6YCLSLbu2tlF5h--5" target="Zk8eU6YCLSLbu2tlF5h--10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zk8eU6YCLSLbu2tlF5h--5" value="Bronze" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="Zk8eU6YCLSLbu2tlF5h--5" value="Bronze" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zk8eU6YCLSLbu2tlF5h--9" value="Weapons III" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="Zk8eU6YCLSLbu2tlF5h--9" value="Weapons III" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zk8eU6YCLSLbu2tlF5h--10" value="Armour I" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="Zk8eU6YCLSLbu2tlF5h--10" value="Armour I" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="400" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
