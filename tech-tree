@@ -67,6 +67,9 @@
         <mxCell id="Zk8eU6YCLSLbu2tlF5h--5" value="Bronze" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="q8zhhwWcFM-xRvEbqoC7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zk8eU6YCLSLbu2tlF5h--9" target="q8zhhwWcFM-xRvEbqoC7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zk8eU6YCLSLbu2tlF5h--9" value="Weapons III" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
         </mxCell>
@@ -75,6 +78,15 @@
         </mxCell>
         <mxCell id="q8zhhwWcFM-xRvEbqoC7-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.imgur.com/5WiIwt5.png;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="1200" height="719" as="geometry" />
+        </mxCell>
+        <mxCell id="q8zhhwWcFM-xRvEbqoC7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8zhhwWcFM-xRvEbqoC7-6" target="q8zhhwWcFM-xRvEbqoC7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q8zhhwWcFM-xRvEbqoC7-6" value="War" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q8zhhwWcFM-xRvEbqoC7-7" value="Civilization" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
