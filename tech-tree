@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="26.0.8">
   <diagram name="Page-1" id="dAGslzlxXaPJ6sU9PDOE">
-    <mxGraphModel dx="1224" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1675" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,6 +64,9 @@
         <mxCell id="Zk8eU6YCLSLbu2tlF5h--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Zk8eU6YCLSLbu2tlF5h--5" target="Zk8eU6YCLSLbu2tlF5h--10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zk8eU6YCLSLbu2tlF5h--5" target="nc87ifl2Nzmpdhsmnfc9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Zk8eU6YCLSLbu2tlF5h--5" value="Bronze" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
         </mxCell>
@@ -85,11 +88,44 @@
         <mxCell id="q8zhhwWcFM-xRvEbqoC7-6" value="War" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="240" y="480" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8zhhwWcFM-xRvEbqoC7-7" target="nc87ifl2Nzmpdhsmnfc9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q8zhhwWcFM-xRvEbqoC7-7" target="nc87ifl2Nzmpdhsmnfc9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q8zhhwWcFM-xRvEbqoC7-7" value="Civilization" style="rounded=1;arcSize=20;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="240" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JKJtAdPh4pJ0nfbWA2BE-3" value="Civilization" style="rounded=1;arcSize=20;strokeWidth=2;glass=0;" vertex="1" parent="1">
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-3" value="Jobs" style="rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="240" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-7" value="Economy" style="rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nc87ifl2Nzmpdhsmnfc9-8" target="nc87ifl2Nzmpdhsmnfc9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nc87ifl2Nzmpdhsmnfc9-8" target="nc87ifl2Nzmpdhsmnfc9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-8" value="Mining" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nc87ifl2Nzmpdhsmnfc9-11" target="nc87ifl2Nzmpdhsmnfc9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-11" value="Copper" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-12" value="Iron" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nc87ifl2Nzmpdhsmnfc9-14" target="nc87ifl2Nzmpdhsmnfc9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nc87ifl2Nzmpdhsmnfc9-14" value="Coins" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
